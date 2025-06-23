@@ -297,7 +297,7 @@ if(all.length === 0){
 }
 
 
-const url = `https://wa.me/559428086?text= %20 %20 %20 %20 %20 %20PRODUCT SUMMARY%0A %0APRODUCT NAME(s): %0A %0A${productName}%0A %0APRODUCT PRICE(s):%0A %0A${productPrice} %0A %0A
+const url = `https://wa.me/500239741?text= %20 %20 %20 %20 %20 %20PRODUCT SUMMARY%0A %0APRODUCT NAME(s): %0A %0A${productName}%0A %0APRODUCT PRICE(s):%0A %0A${productPrice} %0A %0A
 PERSONAL INFO:%0A %0A
 FIRST NAME: ${firstName.value}
  %0A
